@@ -26,7 +26,7 @@ We use the renowned [Wisconsin Breast Cancer Dataset](https://archive.ics.uci.ed
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/Breast-Cancer-Detection.git
+git clone https://github.com/daveontrack/Breast-Cancer-Detection.git
 cd Breast-Cancer-Detection
 pip install -r requirements.txt
 ```
