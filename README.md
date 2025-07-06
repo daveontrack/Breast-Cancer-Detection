@@ -87,7 +87,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Project Maintainer - [Your Name](mailto:your.email@example.com)  
+Project Maintainer - [email](mailto:your.dawitberiso406@.com)  
 Project Link - [https://github.com/daveontrack/Breast-Cancer-Detection](https://github.com/daveontrack/Breast-Cancer-Detection)
 
 ## 💖 Support
